@@ -3,10 +3,22 @@
 
 ![portada](./img/portada.png)
 
-# Explicación
+## Explicación
 Este proyecto pretende explicar de manera sencilla como comunicar dos placas arduino a traves de modulos de raiofrecuencía APC220 de manera sencilla
 
-# Información general
+## Requisitos
+
+- ### Hardware
+    - Modulo APC220 x2  - *(son los modulos)*
+    - CP210 USB to UART Converter x1 - *(Es el adaptador)*
+    - Placa Arduino x2 *(Arduino UNO o Arduino Mega)*
+    - USB Cable A-B de Arduino x2
+
+- ### Software
+    - Arduino IDE 
+    - RF-magic [*(ver configuracion)*](./configuracion.md)
+
+## Información general
 
 | **Nombre del Módulo**   | Módulo APC220                             |
 | ----------------------- | ----------------------------------------- |
@@ -24,3 +36,5 @@ Este proyecto pretende explicar de manera sencilla como comunicar dos placas ard
 | **Documentación Oficial** | [Manual de Usuario APC220](https://wiki.dfrobot.com/APC220_Radio_Data_Module_SKU_TEL0005_) |
 
 # Guia por pasos 
+
+1. [Configuración](./configuracion.md)
