@@ -39,3 +39,4 @@ Este proyecto pretende explicar de manera sencilla como comunicar dos placas ard
 
 1. [Configuración](./configuracion.md)
 2. [Armar circuito](./armado.md.md)
+2. [Codificación](./code.md.md.md)
