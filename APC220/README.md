@@ -4,7 +4,7 @@
 ![portada](./img/portada.png)
 
 ## Explicación
-Este proyecto pretende explicar de manera sencilla como comunicar dos placas arduino a traves de modulos de raiofrecuencía APC220 de manera sencilla
+Este proyecto pretende explicar como comunicar dos placas arduino a traves de modulos de raiofrecuencía APC220 de manera sencilla
 
 ## Requisitos
 
@@ -39,4 +39,5 @@ Este proyecto pretende explicar de manera sencilla como comunicar dos placas ard
 
 1. [Configuración](./configuracion.md)
 2. [Armar circuito](./armado.md)
-2. [Codificación](./code.md.md)
+2. [Codificación](./code.md)
+2. [Referencias y archivos](./referencias.md)
