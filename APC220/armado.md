@@ -2,7 +2,7 @@
 
 El armado es bastante sencillo solo necesitas dos placas
 
-## Conexiones
+## [Emisor](./main/emisor.ino)
 
 
 | **Módulo APC220** | **Arduino Uno** | **Arduino Mega** |
@@ -12,6 +12,6 @@ El armado es bastante sencillo solo necesitas dos placas
 | TXD (Transmit)   | RX   |RX   |
 | RXD (Receive)    | TX   | TX   |
 
-## Diagrama
+## [Receptor](./main/receptor.ino.ino)
 Este es el ejemplo del diagrama con Arduino Mega
 ![diagrama](./img/diagrama.gif)
